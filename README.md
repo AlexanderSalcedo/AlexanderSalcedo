@@ -37,14 +37,14 @@ Hola, Soy Alexander Salcedo!
 </pre>
 <hr>
 
-## 🤝 Connect with me
+## 🤝 Conecta conmigo
 
 <p align="center">
 	<a href="mailto:alexander.salcedo.p@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/alexandersalcedop/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
-## 💻 My Tech Stack
+## 💻 Tech Stack
 
 <p>
     <a href="https://www.python.org/"><img alt="PYTHON" src="https://img.shields.io/badge/Python-%23FF6F00.svg?logo=python&logoColor=white"></a>
