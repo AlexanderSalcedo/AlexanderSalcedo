@@ -28,7 +28,7 @@ Hola, Soy Alexander Salcedo!
 💻 Data Engineer
 📚 Bachiller en Ingeniería Electrónica por la Universidad Nacional de Ingeniería
 📝 Tengo un gran interés en Cloud, Big Data y Data Architecture.
-🛠️ Actualmente estoy trabajando como Data Engineer Ssr. en Vooxell
+🛠️ Actualmente estoy trabajando como Data Engineer Ssr. en Inetum
 🌱 Aprendiendo sobre diseños eficientes para sistemas escalables
 🌟 Lenguaje principal: Python 🐍
 🚩 Interesado en arquitecturas de datos modernas como data lakes y data warehouses
